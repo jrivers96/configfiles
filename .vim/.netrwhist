@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/development/customer/loadbamdist/test_samtools'
+let g:netrw_dirhist_2='/development/POCmaterial/mike/generated/python-client/test'
+let g:netrw_dirhist_3='/development/scidbversion/scidbtrunk/src/mpi'
+let g:netrw_dirhist_4='/development/POCmaterial/GSK/generated/python-flask-server/viz_server/run_viz_server.ini'
